@@ -1,0 +1,27 @@
+{
+  "scope": "validation_60_case_study",
+  "prediction_unit": "additional_global_top10_appearances_next_two_calendar_weeks",
+  "candidates": [
+    {
+      "show_title": "Red Notice",
+      "season_title": "N/A",
+      "prediction_rank": 1,
+      "predicted_additional_weeks": 2.0,
+      "visual_status": "created"
+    },
+    {
+      "show_title": "Hellbound",
+      "season_title": "Hellbound: Season 1",
+      "prediction_rank": 1,
+      "predicted_additional_weeks": 2.0,
+      "visual_status": "created"
+    },
+    {
+      "show_title": "The Queen of Flow",
+      "season_title": "The Queen of Flow: Season 2",
+      "prediction_rank": 3,
+      "predicted_additional_weeks": 1.9446292916475045,
+      "visual_status": "withheld_unverified"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+﻿partition,n,raw_hours_mae,log1p_hours_mae,mae_reduction,relative_reduction,improved
+validation,60,0.521037582621624,0.49562939822935265,0.025408184392271382,0.04876459057795593,True
